@@ -30,3 +30,4 @@ for(let i = 1; i <= 100; i++) {
 // Applica stili differenti agli elementi aggiunti al DOM nel *BONUS 1*,
 // a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz.
 
+// Funziona? si... boh!
